@@ -1,5 +1,9 @@
 # NAME: googleplay
 # AUTHOR: RYODT
 DOMAIN-SUFFIX,googleapis.cn
-#DOMAIN-SUFFIX,services.googleapis.cn
-#DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,www-googletagmanager.l.google.com
+DOMAIN,clientservices.googleapis.com
+DOMAIN,update.googleapis.com
+DOMAIN,translate.googleapis.com
+DOMAIN,fonts.googleapis.com
