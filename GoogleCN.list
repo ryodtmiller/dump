@@ -32,7 +32,7 @@ DOMAIN-SUFFIX,www-googletagmanager.l.google.com
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN,clientservices.googleapis.com
-DOMAIN,update.googleapis.com
-DOMAIN,translate.googleapis.com
-DOMAIN,fonts.googleapis.com
+#DOMAIN,clientservices.googleapis.com
+#DOMAIN,update.googleapis.com
+#DOMAIN,translate.googleapis.com
+#DOMAIN,fonts.googleapis.com
