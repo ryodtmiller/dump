@@ -1,0 +1,14 @@
+# NAME: GoogleProxy
+# AUTHOR: RYODT
+DOMAIN-SUFFIX,safebrowsing-cache.google.com
+DOMAIN-SUFFIX,settings.crashlytics.com
+DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
+DOMAIN-SUFFIX,toolbarqueries.google.com
+DOMAIN-SUFFIX,tools.google.com
+DOMAIN-SUFFIX,tools.l.google.com
+DOMAIN-SUFFIX,www-googletagmanager.l.google.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,clientservices.googleapis.com
+DOMAIN-SUFFIX,update.googleapis.com
+DOMAIN-SUFFIX,translate.googleapis.com
+DOMAIN-SUFFIX,fonts.googleapis.com
