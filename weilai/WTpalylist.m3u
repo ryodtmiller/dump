@@ -12,7 +12,7 @@ rtmp://f13h.mine.nu/sat/tv051
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-id="6102" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台湾",纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1 tvg-id="6103" tvg-name="东森财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台湾",东森财经
+#EXTINF:-1 tvg-id="6103" tvg-name="东森财经台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC7.png" group-title="台湾",东森财经
 rtmp://f13h.mine.nu/sat/tv571
 #EXTINF:-1 tvg-id="6104" tvg-name="东森超视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台湾",东森超视
 rtmp://f13h.mine.nu/sat/tv331
