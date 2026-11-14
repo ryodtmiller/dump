@@ -11,7 +11,7 @@ rtmp://f13h.mine.nu/sat/tv051
 rtmp://f13h.mine.nu/sat/tv721
 #纬来育乐,
 rtmp://f13h.mine.nu/sat/tv701
-#纬来日本,
+#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台湾",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
 #东森财经,
 rtmp://f13h.mine.nu/sat/tv571
