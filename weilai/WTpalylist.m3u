@@ -1,5 +1,5 @@
 #WT
-#台视,
+EXTINF:-1 tvg-id="6096" tvg-name="台视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台湾",台视
 rtmp://f13h.mine.nu/sat/tv071
 #中视,
 rtmp://f13h.mine.nu/sat/tv091
